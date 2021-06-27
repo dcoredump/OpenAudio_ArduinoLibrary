@@ -1,3 +1,6 @@
+#if !defined(_OPENAUDIO_ARDUINO_LIBRARY)
+#define _OPENAUDIO_ARDUINO_LIBRARY
+#endif
 
 #include <AudioStream_F32.h>
 #include <AudioControlSGTL5000_Extended.h>
